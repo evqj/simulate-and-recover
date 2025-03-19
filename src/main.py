@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Some of this code, particularly the math-heavy parts, were written with the help of ChatGPT
 import numpy as np
 from ez_diffusion_simulate_and_recover import EZ_diffusion_simulate_and_recover
 

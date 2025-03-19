@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Some help from ChatGPT and Google
 import numpy as np
 
 class EZ_diffusion_simulate_and_recover:
