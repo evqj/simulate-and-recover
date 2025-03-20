@@ -1,0 +1,12 @@
+Sample Size N = 10
+Average Bias: [-0.24033387 -0.27606718  0.04863937]
+Average Squared Error: [0.87535896 0.77256152 0.02805736]
+
+Sample Size N = 40
+Average Bias: [-0.05624555 -0.07525104  0.0100549 ]
+Average Squared Error: [0.15659254 0.15738457 0.00548834]
+
+Sample Size N = 4000
+Average Bias: [-4.12103677e-04  3.06375985e-05  3.55859487e-05]
+Average Squared Error: [1.14410485e-03 1.53341379e-04 1.97234838e-05]
+
